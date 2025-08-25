@@ -6,8 +6,17 @@
 ![Desktop Screenshot](imgs/servizi.png)
 ![Desktop Screenshot](imgs/unovoUtente.png)
 ![Desktop Screenshot](imgs/gestioneUtenti.png)
-
+![Desktop Screenshot](imgs/agagraficaCittadino.png)
+![Desktop Screenshot](imgs/agagraficaCittadinoSegnalazione2.png)
+![Desktop Screenshot](imgs/agagraficaCittadinoMonitoraggio.png)
+![Desktop Screenshot](imgs/agagraficaCittadinoCerca.png)
+![Desktop Screenshot](imgs/agagraficaCittadinoUtenze2.png)
+![Desktop Screenshot](imgs/agagraficaCittadinoUtenze3.png)
+![Desktop Screenshot](imgs/agagraficaCittadinoAttivita.png)
+![Desktop Screenshot](imgs/agagraficaCittadinoAnalisi.png)
 
 ### Mobile version
-![Mobile Screenshot](imgs/mobile1.png)
-![Mobile Screenshot](imgs/mobile2.png)
+![Mobile Screenshot](imgs/mobile/accedi.png)
+![Mobile Screenshot](imgs/mobile/servizi.png)
+![Mobile Screenshot](imgs/mobile/anagrafici.png)
+![Mobile Screenshot](imgs/mobile/segnalazione2.png)
