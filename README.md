@@ -17,6 +17,9 @@
 
 ### Mobile version
 ![Mobile Screenshot](imgs/mobile/accedi.png)
+
 ![Mobile Screenshot](imgs/mobile/servizi.png)
+
 ![Mobile Screenshot](imgs/mobile/anagrafici.png)
+
 ![Mobile Screenshot](imgs/mobile/segnalazione2.png)
