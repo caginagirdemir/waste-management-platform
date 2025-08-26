@@ -1,3 +1,8 @@
+## Project
+
+- **Name:** Raccolta Puntuale
+- **Customer:** Commune di Lecce
+
 ## Technologies Used
 
 - **Backend:** C# ASP.NET MVC  
