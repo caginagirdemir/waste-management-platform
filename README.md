@@ -1,7 +1,7 @@
 ## Project
 
 - **Name:** Raccolta Puntuale
-- **Customer:** Commune di Lecce
+- **Customer:** Comune di Lecce
 
 ## Technologies Used
 
