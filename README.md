@@ -7,7 +7,8 @@
 
 ## Team
 
-- Developed by a **4-person team**: 3 developers and 1 designer.  
+- Developed by a **4-person team**: 3 developers and 1 designer.
+- **Development Duration:** 9 months  
 
 ## Screenshots
 
