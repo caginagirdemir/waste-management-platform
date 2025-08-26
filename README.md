@@ -1,3 +1,14 @@
+## Technologies Used
+
+- **Backend:** C# ASP.NET MVC  
+- **Frontend:** Bootstrap Italia (UI framework)  
+- **Database:** Microsoft SQL Server 2019 (MSSQL 19)  
+- **Version Control / CI/CD:** Azure DevOps (Microsoft DevOps)
+
+## Team
+
+- Developed by a **4-person team**: 3 developers and 1 designer.  
+
 ## Screenshots
 
 ### Desktop version
